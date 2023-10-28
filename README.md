@@ -11,8 +11,15 @@
 
 - 📫 How to reach me **chamudi2003@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/chamudi ayashmi fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chamudi ayashmi fernando" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chamudi fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamudi fernando" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22773622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22773622" height="30" width="40" /></a>
 <a href="https://instagram.com/ayashmifernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayashmifernando" height="30" width="40" /></a>
 <a href="https://dribbble.com/chamudi_ayashmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="chamudi_ayashmi" height="30" width="40" /></a>
 </p>
