@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **ICET**
+- 🌱 I’m currently working @ **Perfect Solution International (PVT)LTD**
 
 - 📫 How to reach me **chamudi2003@gmail.com**
 
